@@ -1,5 +1,6 @@
 # Plurality-Election
 ## CS50 Problem
+This problem can be found at OpenCourseWare CS50 
 
 Implement a program that runs a plurality election, per the below.
 ```
